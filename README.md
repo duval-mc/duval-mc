@@ -1,51 +1,49 @@
 # Martin Castillo
 
-Estudio Biotecnología y, en paralelo, desarrollo software de manera autodidacta, principalmente con Python y JavaScript.
+Estudio Biotecnología y, en paralelo, desarrollo software por cuenta propia, principalmente con Python y JavaScript.
 
-Gran parte de lo que construyo termina ejecutándose en mi propio servidor casero, donde también experimento con contenedores, automatización y modelos de lenguaje locales.
+Me interesa construir herramientas que resuelvan problemas concretos, especialmente en bioinformática, automatización e inteligencia artificial local. Gran parte de mis proyectos se ejecuta en mi propio servidor, donde experimento con Linux, Docker y modelos de lenguaje locales.
 
-No sigo una ruta lineal basada únicamente en certificaciones. Prefiero aprender resolviendo problemas concretos y creando herramientas que puedan utilizarse en situaciones reales, aunque comiencen a pequeña escala.
+Prefiero aprender desarrollando soluciones funcionales y documentando el proceso, en lugar de limitarme únicamente a cursos o tutoriales.
 
-## Proyectos
+## Proyectos destacados
+
+### [BLOSUM Matrix Builder](https://github.com/duval-mc/BLOSUM-Matrix-Builder)
+
+Herramienta educativa de línea de comandos para construir matrices de sustitución tipo BLOSUM a partir de alineamientos de proteínas.
+
+El proyecto explica las etapas matemáticas del proceso, incluyendo conteos, frecuencias observadas y esperadas, agrupamiento de secuencias y cálculo de puntajes log-odds.
+
+`Python` · `Bioinformática` · `Proteínas` · `BLOSUM` · `Testing`
 
 ### [DNA PSSM Analyzer](https://github.com/duval-mc/dna-pssm-analyzer)
 
-Herramienta desarrollada en Python para construir matrices de peso específicas de posición —PSSM— a partir de secuencias de ADN y generar logos de información en formato SVG.
+Aplicación en Python para construir matrices de puntuación específicas por posición —PSSM— a partir de secuencias de ADN.
 
-El proyecto nació de una necesidad puntual en una asignatura de bioinformática y terminó convirtiéndose en una aplicación de terminal completa.
+Permite analizar secuencias, buscar motivos y generar logos de información en formato SVG. Nació como un proyecto académico y evolucionó hasta convertirse en una herramienta de terminal documentada y reutilizable.
+
+`Python` · `Bioinformática` · `ADN` · `PSSM` · `SVG`
+
+## Proyectos en desarrollo
 
 ### V.E.S.P.E.R.
 
-**Virtual Electronic System for Personal Execution & Research**
-
-Asistente local en desarrollo para administrar mi servidor personal. Integra gestión de contenedores Docker, notas de Obsidian, generación de páginas web y herramientas de diagnóstico de red.
-
-El sistema utiliza modelos ejecutados localmente mediante Ollama, reduciendo la dependencia de servicios externos y manteniendo los datos dentro de mi propia infraestructura.
-
-El proyecto se encuentra en desarrollo activo y evoluciona a medida que incorporo nuevas capacidades.
+Asistente local orientado a la administración de mi servidor, automatización de tareas, gestión de contenedores Docker y uso de modelos ejecutados mediante Ollama.
 
 ### NODO
 
-Plataforma de aprendizaje de desarrollo web en español, construida con JavaScript sin frameworks.
+Plataforma educativa en español para aprender desarrollo web mediante teoría, ejercicios, seguimiento del progreso y un editor de código en vivo.
 
-Incluye un editor de código en vivo, seguimiento del progreso y diferentes contenidos prácticos. También incorpora trabajo específico en accesibilidad, estructura semántica y metadatos, buscando que la plataforma no solo sea funcional, sino también fácil de utilizar y encontrar.
+## Tecnologías
 
-## Stack
-
-`Python` · `JavaScript` · `Flask` · `Docker` · `Linux` · `Nginx` · `Ollama` · `Tailscale`
+`Python` · `JavaScript` · `HTML` · `CSS` · `Flask` · `Docker` · `Linux` · `Nginx` · `Git` · `Ollama` · `Tailscale`
 
 ## Actualmente
 
-Estoy siguiendo una ruta de aprendizaje enfocada en inteligencia artificial aplicada:
+Estoy aprendiendo sobre sistemas RAG, agentes con herramientas y evaluación de aplicaciones basadas en inteligencia artificial.
 
-1. Sistemas RAG.
-2. Sistemas agénticos.
-3. Fine-tuning de modelos.
-
-Mi objetivo es aplicar cada etapa directamente en proyectos propios, en lugar de limitarme únicamente a cursos o tutoriales.
+Mi objetivo es aplicar cada etapa directamente en proyectos propios y comprender tanto su funcionamiento como sus limitaciones.
 
 ## Contacto
 
-Puedes contactarme en [martincastillo.dev@gmail.com](mailto:martincastillo.dev@gmail.com).
-
-
+[martincastillo.dev@gmail.com](mailto:martincastillo.dev@gmail.com)
