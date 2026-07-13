@@ -10,7 +10,7 @@ Me interesa transformar problemas reales en soluciones digitales funcionales, cl
 * Creo herramientas para análisis de datos y aplicaciones web.
 * Estoy aprendiendo sobre automatización e inteligencia artificial.
 * Trabajo con Linux, Git, GitHub y servicios basados en Docker.
-* Me interesa la privacidad y la ciberseguridad defensiva.
+* Me interesa la privacidad
 * Actualmente estoy construyendo mi portafolio profesional.
 
 ## Proyecto destacado
