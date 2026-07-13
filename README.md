@@ -1,8 +1,8 @@
 # Martin Castillo
 
-Estudio Bioinformatica y, en paralelo, desarrollo software por cuenta propia, principalmente con Python y JavaScript.
+Estudio Bioinformática y, en paralelo, desarrollo software por cuenta propia, principalmente con Python y JavaScript.
 
-Me interesa construir herramientas que resuelvan problemas concretos, especialmente en bioinformática, automatización e inteligencia artificial local. Gran parte de mis proyectos se ejecuta en mi propio servidor, donde experimento con Linux, Docker y modelos de lenguaje locales.
+Me interesa construir herramientas que resuelvan problemas concretos, especialmente en análisis de secuencias biológicas, automatización e inteligencia artificial local. Gran parte de mis proyectos se ejecuta en mi propio servidor, donde experimento con Linux, Docker y modelos de lenguaje locales.
 
 Prefiero aprender desarrollando soluciones funcionales y documentando el proceso, en lugar de limitarme únicamente a cursos o tutoriales.
 
