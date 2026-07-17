@@ -1,10 +1,11 @@
 # Martin Castillo
 
-Estudio Bioinformática y, en paralelo, desarrollo software por cuenta propia, principalmente con Python y JavaScript.
+Estudio Bioinformática y desarrollo backend principalmente con Python.
 
-Me interesa construir herramientas que resuelvan problemas concretos, especialmente en análisis de secuencias biológicas, automatización e inteligencia artificial local. Gran parte de mis proyectos se ejecuta en mi propio servidor, donde experimento con Linux, Docker y modelos de lenguaje locales.
-
-Prefiero aprender desarrollando soluciones funcionales y documentando el proceso, en lugar de limitarme únicamente a cursos o tutoriales.
+Construyo APIs y herramientas orientadas al análisis de secuencias
+biológicas, automatización e inteligencia artificial local. También
+administro un servidor propio donde practico con Linux, Docker,
+PostgreSQL y despliegue de servicios.
 
 ## Proyectos destacados
 
@@ -34,9 +35,13 @@ Asistente local orientado a la administración de mi servidor, automatización d
 
 Plataforma educativa en español para aprender desarrollo web mediante teoría, ejercicios, seguimiento del progreso y un editor de código en vivo.
 
-## Tecnologías
+## Tecnologías principales
 
-`Python` · `JavaScript` · `HTML` · `CSS` · `Flask` · `Docker` · `Linux` · `Nginx` · `Git` · `Ollama` · `Tailscale`
+Python · FastAPI · PostgreSQL · Git · Linux · Docker
+
+## También he trabajado con
+
+JavaScript · HTML · CSS · Flask · Nginx · Ollama · Tailscale
 
 ## Actualmente
 
